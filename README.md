@@ -1,17 +1,17 @@
 # NutriGoal
 
-A mobile app for tracking nutrition, discovering food categories, and creating personal recipes — built with React Native and TypeScript.
+A mobile app for tracking nutrition, discovering food categories, and creating personal recipes - built with React Native and TypeScript.
 
 ---
 
 ## Features
 
-- **Onboarding & Data Collection** — Personalized setup based on user health data
-- **Food Categories** — Browse and explore foods by category
-- **Nutrition Formulas** — Calculate nutritional needs based on personal metrics
-- **Recipe Creation** — Create and save custom recipes
-- **Blog & Articles** — View nutrition-related content
-- **User Profile** — Manage personal information and goals
+- **Onboarding & Data Collection** - Personalized setup based on user health data
+- **Food Categories** - Browse and explore foods by category
+- **Nutrition Formulas** - Calculate nutritional needs based on personal metrics
+- **Recipe Creation** - Create and save custom recipes
+- **Blog & Articles** - View nutrition-related content
+- **User Profile** - Manage personal information and goals
 
 ---
 
@@ -29,7 +29,7 @@ A mobile app for tracking nutrition, discovering food categories, and creating p
 ## Getting Started
 
 ### Prerequisites
-- Node.js 18+
+- Node.js
 - React Native environment setup ([guide](https://reactnative.dev/docs/environment-setup))
 - Xcode (iOS) or Android Studio (Android)
 
