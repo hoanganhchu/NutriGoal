@@ -1,4 +1,4 @@
-# 🥗 NutriGoal
+# NutriGoal
 
 A mobile app for tracking nutrition, discovering food categories, and creating personal recipes — built with React Native and TypeScript.
 
